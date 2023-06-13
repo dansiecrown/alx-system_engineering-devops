@@ -1,1 +1,1 @@
-This repository contains script containing shell commands
+This direcotry contains script containing shell variables expansion commands
